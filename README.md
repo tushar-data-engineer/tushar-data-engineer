@@ -18,6 +18,9 @@ I am a Data Engineer with 3+ years of experience building data pipelines and wor
 
 ## 📂 Projects
 
+🔹 fabric-socialpulse-lakehouse-platform   
+🔹 banking-fraud-detection-data-pipeline 
+🔹 fabric-data-engineering-project 
 🔹 AWS Medallion Data Pipeline  
 🔹 Vehicle Data Pipeline on AWS  
 🔹 PySpark Data Processing  
