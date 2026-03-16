@@ -10,6 +10,8 @@ I am a Data Engineer with 3+ years of experience building data pipelines and wor
 - SQL
 - PySpark
 - AWS (S3, Glue, Lambda)
+- ADF
+- Fabric
 - ETL Pipelines
 - Data Warehousing
 - Data Processing
